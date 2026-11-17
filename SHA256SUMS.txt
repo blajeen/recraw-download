@@ -1,0 +1,3 @@
+ace0b137ab200b19d3fb66304c547739a01f2f2b9e56d0e07fefcad838d9ee76  Recraw-0.1.1-instalador.exe
+a47ae1be79f4490966e055d97e1955ac0ad02a404bb4fa5f65d5d61af70089c5  Recraw-0.1.1-leia-me.txt
+801441a60b552058db9fb05a9143bdc12ebe2000eaeb1351cd105b6ba2de34c7  Recraw-0.1.1-portatil.zip
